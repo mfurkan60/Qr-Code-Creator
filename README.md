@@ -1,6 +1,8 @@
-# Generate QR Code with Python
+# Generate QR Code with Python  V-0.2
 
-This repository is about that generate Qr code with Python Programing language
+This repository is about that generate Qr code with Python Programing language.
+Added Version 0.2
+
 ## Installation
 
 Use Python3.
